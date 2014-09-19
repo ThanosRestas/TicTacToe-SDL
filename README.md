@@ -1,5 +1,7 @@
 This is a beginner attempt, made as a kickstart in the game development field , in creating a Tic Tac Toe clone using the SDL.
 
+Windows users will have to wait for binaries in the future.
+
 Linux users should first install the required dependencies by executing the following command :
 
 apt-get install libsdl1.2-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev
