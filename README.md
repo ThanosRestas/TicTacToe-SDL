@@ -3,6 +3,16 @@ The classic game of Tic Tac Toe ported to modern systems using the [SDL](https:/
 
 <img src="https://media.giphy.com/media/MBI5KshGeu79U5QqSC/giphy.gif">
 
+# Intro
+
+Cloning the classic game of Tic Tac Toe served as an introduction to the game development field as well as my first time trying to figure out a powerful multipurpose development library such as the SDL. 
+
+Main purpose of this project was to get familiar with basic systems such as :
+
+* Creating and using a main game loop
+* Loading Images
+* Using mouse actions as input
+
 # Overview
 
 * The game supports two players via hotseat. 
